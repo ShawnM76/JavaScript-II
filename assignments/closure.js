@@ -1,22 +1,7 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-function family() {
-  const dad = "Shawn";
-  console.log(`The fathers name is ${dad}`);
 
-    function kid(){
-      console.log(`The kid loves his father ${dad}`);
 
-        function grandchild(){
-          console.log(`The grandchild loves his father ${dad}`);
-        }
-        grandchild();
-    
-      }
-    kid();
-
-  }
-family();
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
